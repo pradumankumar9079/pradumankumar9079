@@ -4,10 +4,10 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Rajaraj1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Rajaraj1"/></a>
-  <a href="https://github.com/Rajaraj1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Rajaraj1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/pradumankumar9079?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pradumankumar9079"/></a>
+  <a href="https://github.com/pradumankumar9079?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pradumankumar9079?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
@@ -22,7 +22,7 @@
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-| <img alt="Rajaraj1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaraj1&hide_border=true"/> | <img alt="Rajaraj1's streak" src="https://github-readme-stats.vercel.app/api?username=Rajaraj1&show_icons=true&count_private=true"/> |
+| <img alt="pradumankumar9079's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pradumankumar9079&hide_border=true"/> | <img alt="pradumankumar9079's streak" src="https://github-readme-stats.vercel.app/api?username=pradumankumar9079&show_icons=true&count_private=true"/> |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
